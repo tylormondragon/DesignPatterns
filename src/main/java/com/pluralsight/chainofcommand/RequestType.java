@@ -1,2 +1,5 @@
-package com.pluralsight.chainofcommand;public enum RequestType {
+package com.pluralsight.chainofcommand;
+
+public enum RequestType {
+    CONFERENCE, PURCHASE;
 }
