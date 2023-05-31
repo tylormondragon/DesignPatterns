@@ -2,6 +2,7 @@ package com.pluralsight.command;
 
 import java.util.List;
 
+//concrete command
 public class AllLightsCommand implements Command {
 
     private List<Light> lights;
